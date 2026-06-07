@@ -42,3 +42,5 @@ source_dir = "src"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+[tool.kedro_telemetry]
+project_id = "ff73fbef4f63436cb6eb5c62022625e1"
